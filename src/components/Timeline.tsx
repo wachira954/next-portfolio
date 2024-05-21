@@ -10,17 +10,17 @@ const experiences = [
   },
   {
     id: 2,
-    role: 'Software Developer',
-    company: 'Ambush.IO',
-    date: 'Aug 2021 - Apr 2022',
-    description: 'Used Python + Flask to develop the software for a SaaS with a team of developers. More info here.',
+    role: 'IT Support',
+    company: 'Media-Max Network Limited',
+    date: ' January 2022 - October 2022',
+    description: 'Experienced IT support specialist transitioning into software engineering. Proficient in troubleshooting, maintaining, and optimizing software systems, with a strong foundation in programming and application development. Adept at resolving complex technical issues, improving system performance, and providing exceptional user support. Looking to leverage my IT support background and coding skills to develop innovative software solutions.',
   },
   {
     id: 3,
-    role: 'Developer/Owner',
-    company: 'LiquidTools',
-    date: 'Apr 2022 - Current',
-    description: 'A SaaS start up I developed in my spare time that now has 200+ monthly paying users. Used Python + JS. More info here.',
+    role: 'Frontend Developer',
+    company: 'Data Integrated Limited',
+    date: 'Feb 2023 - Current',
+    description: 'Developing and maintaining user-friendly web interfaces using React and its Frameworks. Collaborating with design and backend teams to create seamless, responsive, and visually appealing user experiences. Ensuring cross-browser compatibility and optimizing web applications for performance.',
   },
 ];
 

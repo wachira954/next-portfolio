@@ -1,40 +1,24 @@
 const projects = [
     {
-      title: 'Ambush.IO',
-      description: '(Software Developer) SaaS Company built for the sneaker reselling industry to allow users to mass enter raffles through the use of HTTP requests and more. Check out more by clicking on me!',
-      imageUrl: 'https://pbs.twimg.com/profile_banners/1425260143227416579/1634063170/600x200',
-      caseStudyUrl: '#'
+      title: 'Alex Portfolio',
+      description: ' This project highlights a selection of my work, demonstrating my skills and creativity in designing and developing diverse portfolio layouts. It serves as a testament to my ability to create visually appealing and functional portfolios that effectively showcase professional achievements and projects. Explore this portfolio to see examples of my design thinking, attention to detail, and technical expertise.',
+      imageUrl: 'https://app.gemoo.com/share/website-screenshot/651469462002896896?codeId=DWlbbyZaJdo9W',
+      caseStudyUrl: 'https://portlio-murex.vercel.app/'
     },
     {
-      title: 'Liquid Tools',
-      description: '(Founder + Developer) SaaS company built in the sneaker reselling industry consisting of tools to simplify user experience and increase effiency. Check Out Repo and Live website here!',
-      imageUrl: 'https://pbs.twimg.com/profile_banners/1513162011835834372/1670196785/600x200',
-      caseStudyUrl: 'https://github.com/NoahGdev/LiquidTools',
+      title: 'MoShopper',
+      description: 'MoShopper offers you a way to filter the best deals for electronics.Weve sorted these deals by price so all you have to do is decide how much you want to spend. The specifications vary too so theres something for everyone whether you plan to use your laptop for gaming, work, school, or just need a portable option for checking your email.',
+      imageUrl: 'https://app.gemoo.com/share/image-annotation/651465713561788416?codeId=M07WW7OYgQABg&origin=imageurlgenerator&card=651465710260871168',
+      caseStudyUrl: 'https://mshoppe.vercel.app/',
     },
-    {
-      title: 'Church Website revamp',
-      description: 'Simple website I made for free to improve on current outdated website for my church!',
-      imageUrl: 'https://media.discordapp.net/attachments/881992483603611708/1098721882292887663/image.png?width=1377&height=676',
-      caseStudyUrl: '#',
-    },
-    {
-      title: 'Freelance Work',
-      description: 'I have completed various projects from discord bots to websites with payment integrations and much more!',
-      imageUrl: 'https://images.ctfassets.net/qr8kennq1pom/1FwKqQoHL68jdVhdkJBJcI/12576e11f3d925df875ebdcb38db9f0a/Freelance.jpg',
-      caseStudyUrl: '#',
-    },
-    {
-      title: 'Podcast App',
-      description: 'An app created with react-native and expo for my church where podcasts could be streamed live or listned back to. The app displayed different stacks for logged in\
-      and logged out users, saved sessions and this is where I learned about authentication with sign up and sign in.',
-      imageUrl: 'https://media.discordapp.net/attachments/1123342178991734795/1165465536658931712/image1.jpeg?ex=6546f35d&is=65347e5d&hm=6826bde1839e5f938f4cfc9f419edf3ddc1b0c67793366b732ce5d87a0beaea9&=&width=1014&height=676',
-      caseStudyUrl: '#',
-    },
+    
+
+    
     {
       title: 'This website ✨',
-      description: 'Portfolio website built in Next.js 13 to showcase my projects, experience and resume through a cooler way. Checkout the repo and more by clicking on me.',
+      description: 'Fintech Innovators delivers the latest fintech news and trends while fostering a vibrant tech community. We organize hackathons, workshops, and conferences to bring together leading minds in technology and finance. Stay informed and inspired with Fintech Innovators.',
       imageUrl: 'https://nextjs.org/static/blog/next-13/twitter-card.png',
-      caseStudyUrl: 'https://github.com/NoahGdev/Portfolio-Website',
+      caseStudyUrl: 'https://afik-demov2-k2m2.vercel.app/',
     }
   ];
 

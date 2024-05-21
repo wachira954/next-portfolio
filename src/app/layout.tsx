@@ -1,12 +1,12 @@
 import './globals.css'
 
 // export const metadata = {
-//   title: "iNoah",
+//   title: "Alex",
 //   description: 'Welcome to my portfolio!',
 //   openGraph: {
-//     title: 'iNoah',
+//     title: 'Alex',
 //     description: 'Welcome to my portfolio!',
-//     siteName: 'inoah.dev',
+//     siteName: 'Alex.dev',
 //     images: [
 //       {
 //         url: "/screenshot.png"
@@ -17,9 +17,9 @@ import './globals.css'
 //   },
 //   twitter: {
 //     card: 'summary_large_image',
-//     title: 'iNoah',
+//     title: 'Alex',
 //     description: 'Welcome to my portfolio!',
-//     creator: '@NoxhDevs',
+//     creator: '@Alex',
 //     images: ['/screenshot.png'],
 //   },
 //   category: 'technology',

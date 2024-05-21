@@ -3,7 +3,6 @@
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { ButtonLink } from './Scroller';
-import { FaDiscord } from 'react-icons/fa';
 
 const Navbar: React.FC = () => {
 
@@ -31,7 +30,7 @@ const Navbar: React.FC = () => {
     <header className={`fixed w-full bg-transparent z-50 mnhdr h-auto transition-all ${scrolling ? 'blur-background' : ''} ${mobileMenuOpen ? 'h-24 blur-background' : ''}`}>
       <nav className="container mx-auto px-6 py-3 flex justify-between items-center">
         <Link href="/" className="text-2xl font-semibold text-gray-800 text-white">
-          iNoah
+        Alex Wachira Gichohi
         </Link>
         <div className="hidden md:flex space-x-6">
           <ButtonLink className="text-lg font-medium text-gray-800 text-white hover:text-gray-300" buttonText='Home' elementId='hero'/>
@@ -55,12 +54,10 @@ const Navbar: React.FC = () => {
               <path d="M4 6h16M4 12h16M4 18h16"></path>
             </svg>
           </button>
-          <Link href="https://github.com/NoahGdev" target='_blank' className="hidden md:flex">
+          <Link href="https://github.com/wachira954" target='_blank' className="hidden md:flex">
             <img src="/github-mark-white.svg" alt="" className='GitHub' />
           </Link>
-          <Link href="https://discord.gg/wDdeQ2bEbG" target='_blank' className="hidden md:flex">
-            <FaDiscord size={36}/>
-          </Link>
+          
         </div>
       </nav>
       <div className={`md:hidden ${mobileMenuOpen ? 'flex' : 'hidden'} justify-between mt-4 mb-6 ml-5`}>
@@ -70,12 +67,10 @@ const Navbar: React.FC = () => {
           <ButtonLink className="text-left text-lg font-medium text-gray-800 text-white hover:text-gray-200 hover:text-gray-400" buttonText='Contact' elementId='contact'/>
         </div>
         <div className="flex items-center mt-20 mr-4">
-          <Link href="https://github.com/NoahGdev" target='_blank'>
+          <Link href="https://github.com/wachira954" target='_blank'>
             <img src="/github-mark-white.svg" alt="" className='GitHub' />
           </Link>
-          <Link href="https://discord.gg/wDdeQ2bEbG" target='_blank' className="ml-4">
-            <FaDiscord size={36}/>
-          </Link>
+          
         </div>
       </div>
     </header>
